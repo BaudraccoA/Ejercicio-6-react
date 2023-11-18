@@ -45,7 +45,6 @@ Finalizado: siendo responsive.
 
 https://ejercicio-6-react.vercel.app/
 
-https://ejercicio-6-react-o2hllpvdl-baudraccoa.vercel.app/
 
 <hr>
 
